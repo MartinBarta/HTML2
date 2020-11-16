@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+    h1, h2, h3{
+        color: red;
+}
+    h4, h5, h6{
+        color: blue;
+}
+    p, b, i{
+        color: green;
+}
+    p.obr1{
+        color:red;
+}
+    b.obr1{
+        color:red;
+}
+    p.obr2{
+        color:green;
+}
+    b.obr2{
+        color:green;
+}
+    p.obr3{
+        color:blue;
+}
+    b.obr3{
+        color:blue;
+}
+    img.obr1, img.obr2, img.obr3 {
+        width:200px;
+        height:200px;
+    }
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16. 11. 2020, 13:41:42
+    Author     : Martin
+*/
+
